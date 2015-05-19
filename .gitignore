@@ -1,0 +1,8 @@
+
+proj.android/bin/
+
+proj.android/obj/
+
+*.obj
+
+proj.win32/Debug.win32/
